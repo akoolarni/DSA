@@ -1,0 +1,400 @@
+Tree 1:
+BST Height: 28
+BST Comparisons: 12132
+BST Pointer Operations: 1096
+Tree 2:
+BST Height: 23
+BST Comparisons: 13223
+BST Pointer Operations: 1099
+Tree 3:
+BST Height: 25
+BST Comparisons: 13514
+BST Pointer Operations: 1097
+Tree 4:
+BST Height: 25
+BST Comparisons: 13420
+BST Pointer Operations: 1093
+Tree 5:
+BST Height: 22
+BST Comparisons: 12384
+BST Pointer Operations: 1093
+Tree 6:
+BST Height: 24
+BST Comparisons: 13754
+BST Pointer Operations: 1098
+Tree 7:
+BST Height: 22
+BST Comparisons: 12179
+BST Pointer Operations: 1098
+Tree 8:
+BST Height: 22
+BST Comparisons: 12317
+BST Pointer Operations: 1093
+Tree 9:
+BST Height: 22
+BST Comparisons: 11892
+BST Pointer Operations: 1092
+Tree 10:
+BST Height: 21
+BST Comparisons: 11751
+BST Pointer Operations: 1098
+Tree 11:
+BST Height: 22
+BST Comparisons: 11894
+BST Pointer Operations: 1097
+Tree 12:
+BST Height: 22
+BST Comparisons: 11976
+BST Pointer Operations: 1095
+Tree 13:
+BST Height: 20
+BST Comparisons: 11709
+BST Pointer Operations: 1094
+Tree 14:
+BST Height: 22
+BST Comparisons: 12038
+BST Pointer Operations: 1094
+Tree 15:
+BST Height: 21
+BST Comparisons: 11605
+BST Pointer Operations: 1097
+Tree 16:
+BST Height: 19
+BST Comparisons: 11485
+BST Pointer Operations: 1098
+Tree 17:
+BST Height: 22
+BST Comparisons: 12503
+BST Pointer Operations: 1098
+Tree 18:
+BST Height: 21
+BST Comparisons: 12421
+BST Pointer Operations: 1099
+Tree 19:
+BST Height: 22
+BST Comparisons: 12574
+BST Pointer Operations: 1093
+Tree 20:
+BST Height: 20
+BST Comparisons: 11858
+BST Pointer Operations: 1096
+Tree 21:
+BST Height: 23
+BST Comparisons: 12448
+BST Pointer Operations: 1096
+Tree 22:
+BST Height: 23
+BST Comparisons: 12320
+BST Pointer Operations: 1095
+Tree 23:
+BST Height: 24
+BST Comparisons: 13128
+BST Pointer Operations: 1093
+Tree 24:
+BST Height: 19
+BST Comparisons: 11356
+BST Pointer Operations: 1096
+Tree 25:
+BST Height: 21
+BST Comparisons: 11890
+BST Pointer Operations: 1098
+Tree 26:
+BST Height: 23
+BST Comparisons: 11963
+BST Pointer Operations: 1094
+Tree 27:
+BST Height: 23
+BST Comparisons: 12059
+BST Pointer Operations: 1097
+Tree 28:
+BST Height: 22
+BST Comparisons: 12460
+BST Pointer Operations: 1093
+Tree 29:
+BST Height: 20
+BST Comparisons: 12200
+BST Pointer Operations: 1095
+Tree 30:
+BST Height: 25
+BST Comparisons: 13194
+BST Pointer Operations: 1093
+Tree 31:
+BST Height: 27
+BST Comparisons: 13464
+BST Pointer Operations: 1094
+Tree 32:
+BST Height: 20
+BST Comparisons: 11782
+BST Pointer Operations: 1098
+Tree 33:
+BST Height: 21
+BST Comparisons: 11491
+BST Pointer Operations: 1095
+Tree 34:
+BST Height: 22
+BST Comparisons: 11997
+BST Pointer Operations: 1095
+Tree 35:
+BST Height: 23
+BST Comparisons: 12276
+BST Pointer Operations: 1095
+Tree 36:
+BST Height: 22
+BST Comparisons: 12236
+BST Pointer Operations: 1094
+Tree 37:
+BST Height: 20
+BST Comparisons: 11495
+BST Pointer Operations: 1096
+Tree 38:
+BST Height: 20
+BST Comparisons: 11736
+BST Pointer Operations: 1096
+Tree 39:
+BST Height: 23
+BST Comparisons: 13031
+BST Pointer Operations: 1093
+Tree 40:
+BST Height: 20
+BST Comparisons: 12069
+BST Pointer Operations: 1095
+Tree 41:
+BST Height: 21
+BST Comparisons: 12749
+BST Pointer Operations: 1094
+Tree 42:
+BST Height: 22
+BST Comparisons: 12286
+BST Pointer Operations: 1096
+Tree 43:
+BST Height: 24
+BST Comparisons: 12063
+BST Pointer Operations: 1094
+Tree 44:
+BST Height: 25
+BST Comparisons: 13442
+BST Pointer Operations: 1095
+Tree 45:
+BST Height: 21
+BST Comparisons: 12160
+BST Pointer Operations: 1096
+Tree 46:
+BST Height: 23
+BST Comparisons: 11724
+BST Pointer Operations: 1099
+Tree 47:
+BST Height: 22
+BST Comparisons: 11857
+BST Pointer Operations: 1095
+Tree 48:
+BST Height: 22
+BST Comparisons: 11286
+BST Pointer Operations: 1096
+Tree 49:
+BST Height: 21
+BST Comparisons: 12463
+BST Pointer Operations: 1095
+Tree 50:
+BST Height: 20
+BST Comparisons: 12461
+BST Pointer Operations: 1094
+Tree 51:
+BST Height: 21
+BST Comparisons: 12060
+BST Pointer Operations: 1094
+Tree 52:
+BST Height: 22
+BST Comparisons: 11653
+BST Pointer Operations: 1095
+Tree 53:
+BST Height: 23
+BST Comparisons: 12853
+BST Pointer Operations: 1100
+Tree 54:
+BST Height: 20
+BST Comparisons: 11691
+BST Pointer Operations: 1097
+Tree 55:
+BST Height: 24
+BST Comparisons: 11841
+BST Pointer Operations: 1095
+Tree 56:
+BST Height: 27
+BST Comparisons: 13597
+BST Pointer Operations: 1095
+Tree 57:
+BST Height: 21
+BST Comparisons: 12515
+BST Pointer Operations: 1097
+Tree 58:
+BST Height: 19
+BST Comparisons: 11312
+BST Pointer Operations: 1091
+Tree 59:
+BST Height: 22
+BST Comparisons: 11655
+BST Pointer Operations: 1096
+Tree 60:
+BST Height: 18
+BST Comparisons: 11250
+BST Pointer Operations: 1097
+Tree 61:
+BST Height: 21
+BST Comparisons: 11573
+BST Pointer Operations: 1098
+Tree 62:
+BST Height: 24
+BST Comparisons: 12534
+BST Pointer Operations: 1096
+Tree 63:
+BST Height: 20
+BST Comparisons: 12963
+BST Pointer Operations: 1097
+Tree 64:
+BST Height: 21
+BST Comparisons: 11544
+BST Pointer Operations: 1097
+Tree 65:
+BST Height: 20
+BST Comparisons: 11572
+BST Pointer Operations: 1094
+Tree 66:
+BST Height: 23
+BST Comparisons: 12605
+BST Pointer Operations: 1097
+Tree 67:
+BST Height: 25
+BST Comparisons: 12034
+BST Pointer Operations: 1096
+Tree 68:
+BST Height: 23
+BST Comparisons: 12353
+BST Pointer Operations: 1095
+Tree 69:
+BST Height: 21
+BST Comparisons: 12391
+BST Pointer Operations: 1097
+Tree 70:
+BST Height: 22
+BST Comparisons: 12520
+BST Pointer Operations: 1092
+Tree 71:
+BST Height: 21
+BST Comparisons: 12517
+BST Pointer Operations: 1097
+Tree 72:
+BST Height: 19
+BST Comparisons: 11941
+BST Pointer Operations: 1098
+Tree 73:
+BST Height: 22
+BST Comparisons: 12445
+BST Pointer Operations: 1097
+Tree 74:
+BST Height: 25
+BST Comparisons: 12643
+BST Pointer Operations: 1096
+Tree 75:
+BST Height: 22
+BST Comparisons: 12734
+BST Pointer Operations: 1096
+Tree 76:
+BST Height: 26
+BST Comparisons: 13034
+BST Pointer Operations: 1093
+Tree 77:
+BST Height: 27
+BST Comparisons: 12533
+BST Pointer Operations: 1093
+Tree 78:
+BST Height: 25
+BST Comparisons: 11743
+BST Pointer Operations: 1099
+Tree 79:
+BST Height: 23
+BST Comparisons: 13143
+BST Pointer Operations: 1094
+Tree 80:
+BST Height: 21
+BST Comparisons: 11886
+BST Pointer Operations: 1095
+Tree 81:
+BST Height: 22
+BST Comparisons: 12141
+BST Pointer Operations: 1097
+Tree 82:
+BST Height: 24
+BST Comparisons: 13291
+BST Pointer Operations: 1094
+Tree 83:
+BST Height: 23
+BST Comparisons: 12214
+BST Pointer Operations: 1096
+Tree 84:
+BST Height: 21
+BST Comparisons: 11954
+BST Pointer Operations: 1094
+Tree 85:
+BST Height: 21
+BST Comparisons: 11947
+BST Pointer Operations: 1096
+Tree 86:
+BST Height: 21
+BST Comparisons: 12246
+BST Pointer Operations: 1097
+Tree 87:
+BST Height: 28
+BST Comparisons: 13040
+BST Pointer Operations: 1097
+Tree 88:
+BST Height: 21
+BST Comparisons: 11835
+BST Pointer Operations: 1092
+Tree 89:
+BST Height: 23
+BST Comparisons: 13605
+BST Pointer Operations: 1097
+Tree 90:
+BST Height: 20
+BST Comparisons: 11784
+BST Pointer Operations: 1099
+Tree 91:
+BST Height: 22
+BST Comparisons: 12259
+BST Pointer Operations: 1094
+Tree 92:
+BST Height: 20
+BST Comparisons: 11441
+BST Pointer Operations: 1094
+Tree 93:
+BST Height: 20
+BST Comparisons: 11544
+BST Pointer Operations: 1098
+Tree 94:
+BST Height: 22
+BST Comparisons: 12221
+BST Pointer Operations: 1096
+Tree 95:
+BST Height: 22
+BST Comparisons: 11849
+BST Pointer Operations: 1095
+Tree 96:
+BST Height: 19
+BST Comparisons: 11124
+BST Pointer Operations: 1096
+Tree 97:
+BST Height: 21
+BST Comparisons: 11826
+BST Pointer Operations: 1097
+Tree 98:
+BST Height: 22
+BST Comparisons: 13324
+BST Pointer Operations: 1097
+Tree 99:
+BST Height: 21
+BST Comparisons: 11946
+BST Pointer Operations: 1094
+Tree 100:
+BST Height: 22
+BST Comparisons: 12129
+BST Pointer Operations: 1094

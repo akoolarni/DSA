@@ -1,0 +1,400 @@
+Tree 1:
+AVL Height: 11
+AVL Comparisons: 9075
+AVL Pointer Operations: 9095 
+Tree 2:
+AVL Height: 9
+AVL Comparisons: 8093
+AVL Pointer Operations: 8229 
+Tree 3:
+AVL Height: 7
+AVL Comparisons: 7615
+AVL Pointer Operations: 7859 
+Tree 4:
+AVL Height: 9
+AVL Comparisons: 8684
+AVL Pointer Operations: 8839 
+Tree 5:
+AVL Height: 8
+AVL Comparisons: 6896
+AVL Pointer Operations: 7139 
+Tree 6:
+AVL Height: 4
+AVL Comparisons: 4591
+AVL Pointer Operations: 5093 
+Tree 7:
+AVL Height: 11
+AVL Comparisons: 9332
+AVL Pointer Operations: 9327 
+Tree 8:
+AVL Height: 9
+AVL Comparisons: 7721
+AVL Pointer Operations: 7856 
+Tree 9:
+AVL Height: 10
+AVL Comparisons: 9316
+AVL Pointer Operations: 9323 
+Tree 10:
+AVL Height: 8
+AVL Comparisons: 7980
+AVL Pointer Operations: 8252 
+Tree 11:
+AVL Height: 10
+AVL Comparisons: 9055
+AVL Pointer Operations: 9113 
+Tree 12:
+AVL Height: 9
+AVL Comparisons: 8291
+AVL Pointer Operations: 8418 
+Tree 13:
+AVL Height: 11
+AVL Comparisons: 9514
+AVL Pointer Operations: 9525 
+Tree 14:
+AVL Height: 10
+AVL Comparisons: 8587
+AVL Pointer Operations: 8697 
+Tree 15:
+AVL Height: 10
+AVL Comparisons: 8960
+AVL Pointer Operations: 8995 
+Tree 16:
+AVL Height: 11
+AVL Comparisons: 8883
+AVL Pointer Operations: 8933 
+Tree 17:
+AVL Height: 6
+AVL Comparisons: 6557
+AVL Pointer Operations: 6913 
+Tree 18:
+AVL Height: 11
+AVL Comparisons: 9738
+AVL Pointer Operations: 9737 
+Tree 19:
+AVL Height: 11
+AVL Comparisons: 9685
+AVL Pointer Operations: 9672 
+Tree 20:
+AVL Height: 10
+AVL Comparisons: 8847
+AVL Pointer Operations: 8926 
+Tree 21:
+AVL Height: 10
+AVL Comparisons: 8862
+AVL Pointer Operations: 8912 
+Tree 22:
+AVL Height: 11
+AVL Comparisons: 9661
+AVL Pointer Operations: 9669 
+Tree 23:
+AVL Height: 6
+AVL Comparisons: 5297
+AVL Pointer Operations: 5672 
+Tree 24:
+AVL Height: 11
+AVL Comparisons: 9313
+AVL Pointer Operations: 9332 
+Tree 25:
+AVL Height: 11
+AVL Comparisons: 9458
+AVL Pointer Operations: 9458 
+Tree 26:
+AVL Height: 10
+AVL Comparisons: 9100
+AVL Pointer Operations: 9141 
+Tree 27:
+AVL Height: 11
+AVL Comparisons: 9585
+AVL Pointer Operations: 9583 
+Tree 28:
+AVL Height: 11
+AVL Comparisons: 9523
+AVL Pointer Operations: 9526 
+Tree 29:
+AVL Height: 9
+AVL Comparisons: 8283
+AVL Pointer Operations: 8423 
+Tree 30:
+AVL Height: 10
+AVL Comparisons: 8603
+AVL Pointer Operations: 8634 
+Tree 31:
+AVL Height: 7
+AVL Comparisons: 7349
+AVL Pointer Operations: 7571 
+Tree 32:
+AVL Height: 11
+AVL Comparisons: 9637
+AVL Pointer Operations: 9645 
+Tree 33:
+AVL Height: 10
+AVL Comparisons: 9090
+AVL Pointer Operations: 9113 
+Tree 34:
+AVL Height: 9
+AVL Comparisons: 8508
+AVL Pointer Operations: 8620 
+Tree 35:
+AVL Height: 11
+AVL Comparisons: 9387
+AVL Pointer Operations: 9384 
+Tree 36:
+AVL Height: 10
+AVL Comparisons: 8510
+AVL Pointer Operations: 8576 
+Tree 37:
+AVL Height: 10
+AVL Comparisons: 8685
+AVL Pointer Operations: 8778 
+Tree 38:
+AVL Height: 10
+AVL Comparisons: 8916
+AVL Pointer Operations: 8984 
+Tree 39:
+AVL Height: 9
+AVL Comparisons: 8267
+AVL Pointer Operations: 8384 
+Tree 40:
+AVL Height: 10
+AVL Comparisons: 9310
+AVL Pointer Operations: 9358 
+Tree 41:
+AVL Height: 3
+AVL Comparisons: 3687
+AVL Pointer Operations: 4365 
+Tree 42:
+AVL Height: 10
+AVL Comparisons: 8843
+AVL Pointer Operations: 8879 
+Tree 43:
+AVL Height: 11
+AVL Comparisons: 9460
+AVL Pointer Operations: 9465 
+Tree 44:
+AVL Height: 10
+AVL Comparisons: 9066
+AVL Pointer Operations: 9123 
+Tree 45:
+AVL Height: 11
+AVL Comparisons: 9828
+AVL Pointer Operations: 9800 
+Tree 46:
+AVL Height: 11
+AVL Comparisons: 9620
+AVL Pointer Operations: 9625 
+Tree 47:
+AVL Height: 11
+AVL Comparisons: 9306
+AVL Pointer Operations: 9324 
+Tree 48:
+AVL Height: 10
+AVL Comparisons: 9215
+AVL Pointer Operations: 9287 
+Tree 49:
+AVL Height: 10
+AVL Comparisons: 9189
+AVL Pointer Operations: 9248 
+Tree 50:
+AVL Height: 11
+AVL Comparisons: 9572
+AVL Pointer Operations: 9575 
+Tree 51:
+AVL Height: 10
+AVL Comparisons: 8628
+AVL Pointer Operations: 8676 
+Tree 52:
+AVL Height: 9
+AVL Comparisons: 8384
+AVL Pointer Operations: 8484 
+Tree 53:
+AVL Height: 8
+AVL Comparisons: 8345
+AVL Pointer Operations: 8506 
+Tree 54:
+AVL Height: 11
+AVL Comparisons: 9211
+AVL Pointer Operations: 9237 
+Tree 55:
+AVL Height: 11
+AVL Comparisons: 9652
+AVL Pointer Operations: 9649 
+Tree 56:
+AVL Height: 7
+AVL Comparisons: 7103
+AVL Pointer Operations: 7406 
+Tree 57:
+AVL Height: 11
+AVL Comparisons: 9644
+AVL Pointer Operations: 9627 
+Tree 58:
+AVL Height: 11
+AVL Comparisons: 9440
+AVL Pointer Operations: 9438 
+Tree 59:
+AVL Height: 11
+AVL Comparisons: 9676
+AVL Pointer Operations: 9676 
+Tree 60:
+AVL Height: 11
+AVL Comparisons: 9649
+AVL Pointer Operations: 9651 
+Tree 61:
+AVL Height: 11
+AVL Comparisons: 9314
+AVL Pointer Operations: 9332 
+Tree 62:
+AVL Height: 7
+AVL Comparisons: 6085
+AVL Pointer Operations: 6397 
+Tree 63:
+AVL Height: 4
+AVL Comparisons: 3914
+AVL Pointer Operations: 4470 
+Tree 64:
+AVL Height: 11
+AVL Comparisons: 9623
+AVL Pointer Operations: 9626 
+Tree 65:
+AVL Height: 11
+AVL Comparisons: 9760
+AVL Pointer Operations: 9746 
+Tree 66:
+AVL Height: 9
+AVL Comparisons: 7431
+AVL Pointer Operations: 7622 
+Tree 67:
+AVL Height: 11
+AVL Comparisons: 9461
+AVL Pointer Operations: 9472 
+Tree 68:
+AVL Height: 11
+AVL Comparisons: 9623
+AVL Pointer Operations: 9629 
+Tree 69:
+AVL Height: 10
+AVL Comparisons: 8405
+AVL Pointer Operations: 8486 
+Tree 70:
+AVL Height: 7
+AVL Comparisons: 6508
+AVL Pointer Operations: 6775 
+Tree 71:
+AVL Height: 7
+AVL Comparisons: 6267
+AVL Pointer Operations: 6521 
+Tree 72:
+AVL Height: 8
+AVL Comparisons: 7333
+AVL Pointer Operations: 7600 
+Tree 73:
+AVL Height: 9
+AVL Comparisons: 8893
+AVL Pointer Operations: 8981 
+Tree 74:
+AVL Height: 8
+AVL Comparisons: 8165
+AVL Pointer Operations: 8332 
+Tree 75:
+AVL Height: 9
+AVL Comparisons: 9039
+AVL Pointer Operations: 9153 
+Tree 76:
+AVL Height: 5
+AVL Comparisons: 4623
+AVL Pointer Operations: 5056 
+Tree 77:
+AVL Height: 11
+AVL Comparisons: 9673
+AVL Pointer Operations: 9679 
+Tree 78:
+AVL Height: 10
+AVL Comparisons: 9287
+AVL Pointer Operations: 9315 
+Tree 79:
+AVL Height: 9
+AVL Comparisons: 8925
+AVL Pointer Operations: 9056 
+Tree 80:
+AVL Height: 10
+AVL Comparisons: 9205
+AVL Pointer Operations: 9259 
+Tree 81:
+AVL Height: 8
+AVL Comparisons: 7357
+AVL Pointer Operations: 7536 
+Tree 82:
+AVL Height: 8
+AVL Comparisons: 7163
+AVL Pointer Operations: 7341 
+Tree 83:
+AVL Height: 8
+AVL Comparisons: 7675
+AVL Pointer Operations: 7885 
+Tree 84:
+AVL Height: 9
+AVL Comparisons: 7559
+AVL Pointer Operations: 7659 
+Tree 85:
+AVL Height: 11
+AVL Comparisons: 9521
+AVL Pointer Operations: 9522 
+Tree 86:
+AVL Height: 11
+AVL Comparisons: 9576
+AVL Pointer Operations: 9568 
+Tree 87:
+AVL Height: 9
+AVL Comparisons: 7641
+AVL Pointer Operations: 7774 
+Tree 88:
+AVL Height: 8
+AVL Comparisons: 7308
+AVL Pointer Operations: 7547 
+Tree 89:
+AVL Height: 8
+AVL Comparisons: 6833
+AVL Pointer Operations: 7020 
+Tree 90:
+AVL Height: 9
+AVL Comparisons: 8906
+AVL Pointer Operations: 9018 
+Tree 91:
+AVL Height: 8
+AVL Comparisons: 7333
+AVL Pointer Operations: 7546 
+Tree 92:
+AVL Height: 11
+AVL Comparisons: 9536
+AVL Pointer Operations: 9543 
+Tree 93:
+AVL Height: 11
+AVL Comparisons: 9663
+AVL Pointer Operations: 9668 
+Tree 94:
+AVL Height: 10
+AVL Comparisons: 8897
+AVL Pointer Operations: 8951 
+Tree 95:
+AVL Height: 9
+AVL Comparisons: 8949
+AVL Pointer Operations: 9039 
+Tree 96:
+AVL Height: 11
+AVL Comparisons: 9647
+AVL Pointer Operations: 9647 
+Tree 97:
+AVL Height: 10
+AVL Comparisons: 9347
+AVL Pointer Operations: 9385 
+Tree 98:
+AVL Height: 9
+AVL Comparisons: 8110
+AVL Pointer Operations: 8225 
+Tree 99:
+AVL Height: 9
+AVL Comparisons: 7542
+AVL Pointer Operations: 7684 
+Tree 100:
+AVL Height: 10
+AVL Comparisons: 8514
+AVL Pointer Operations: 8601 
